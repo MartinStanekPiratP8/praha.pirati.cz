@@ -28,7 +28,7 @@ sídliště, když máte podezření na korupci na Magistrátu či v městské f
 Základní dokumenty:
 
 * [Volební program](/program/)
-* [Organizační struktura klubu][org]
+
 
 [org]: https://redmine.pirati.cz/projects/praha/issues?query_id=42
 
